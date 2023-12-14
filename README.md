@@ -5,3 +5,4 @@ Day 12 - Scope & Number Guessing Game
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (13/12/2023); update tomorrow.
+  Finished practice (14/12/2023); updated.
